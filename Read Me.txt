@@ -1,0 +1,16 @@
+Sistem bisa dijalankan engan menggunakan Jupyter Notebook
+
+Steps Pemasangan:
+Cek Versi Python
+
+- python --version [sesuaikan versi python untuk install dlib]
+- !pip install dlib
+- !pip install cmake
+- !pip install face_recognition
+
+ikuti Langkah" tersebut
+all done langsung jalankan!
+
+
+Salam,
+Afiyatar.
